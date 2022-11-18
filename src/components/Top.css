@@ -1,0 +1,9 @@
+.top {
+  display: flex;
+  width: 1000px;
+  justify-content: space-around;
+}
+
+.top label {
+  font-size: 3rem;
+}

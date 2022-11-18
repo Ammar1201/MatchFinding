@@ -1,0 +1,10 @@
+.bottom {
+  display: flex;
+  width: 400px;
+  justify-content: space-around;
+}
+
+.bottom button {
+  padding: 1rem 4rem;
+  font-size: 2rem;
+}
